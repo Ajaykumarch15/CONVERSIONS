@@ -4,7 +4,7 @@ The Unit Conversions project is a web application that allows users to convert b
 Features
 •	Temperature Conversion: Convert Celsius to Fahrenheit.
 •	Weight Conversion: Convert Kilograms to Pounds.
-•	Distance Conversion: Convert Kilometers to Miles.
+•	Distance Conversion: Convert Kilometers to Miles
 •	Responsive design that adapts to different screen sizes.
 Technologies Used
 •	HTML
